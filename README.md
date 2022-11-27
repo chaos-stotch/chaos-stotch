@@ -1,8 +1,8 @@
 ### Hi there 👋
 <hr>
 
-- 🔭 I’m currently working with Front End
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working with Back End
+- 🌱 I’m currently learning NodeJS
 
 Check out my experience on Jobs at 
 <a href="https://www.upwork.com/freelancers/~0181cd3365c713ebfd">UpWork<a>
@@ -12,6 +12,8 @@ Check out my experience on Jobs at
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaos-stotch&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Vitor" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Vitor" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Vitor" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitor" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vitor" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
