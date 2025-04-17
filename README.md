@@ -23,7 +23,7 @@ Zimo.page is a SaaS platform with:
 - Subscriptions and billing
 - Analytics dashboard with charts
 - AI integration
-- Built with Flask + React + PostgreSQL
+- Built with Flask, vanilla JS (HTML/CSS/JS) and PostgreSQL
 
 Stay tuned at 👉 [https://zimo.page](https://zimo.page) (soon)
 
